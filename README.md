@@ -1,4 +1,8 @@
 # Overview
+### Contact Details:
+email: jgonza10@uoguelph.ca
+Twitter: @phdnostalgia
+Linkedin: @phdnostalgia
 ## Methods
 
 ## References
