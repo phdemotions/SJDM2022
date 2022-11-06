@@ -1,6 +1,7 @@
 # Overview
 ### Contact Details:
-Email: jgonza10@uoguelph.ca  \n 
+Email: jgonza10@uoguelph.ca
+
 Twitter: @phdnostalgia 
 
 Linkedin: @phdnostalgia 
@@ -13,7 +14,11 @@ Mishra, S., Barclay, P., & Sparks, A. (2017). The relative state model: Integrat
 
 
 ## Data sources
-https://www.nba.com/
 https://www.basketball-reference.com/
-https://www.spotrac.com/
+
 https://www.espn.com
+
+https://www.nba.com/
+
+https://www.spotrac.com/
+
