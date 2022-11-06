@@ -1,6 +1,6 @@
 # Overview
 ### Contact Details:
-Email: jgonza10@uoguelph.ca 
+Email: jgonza10@uoguelph.ca  \n 
 Twitter: @phdnostalgia 
 
 Linkedin: @phdnostalgia 
