@@ -6,7 +6,7 @@ Twitter: [@phdemotions](https://twitter.com/phdemotions)
 
 Linkedin: [@phdemotions](https://www.linkedin.com/in/phdemotions)
 
-Mastoon:  [@phdemotions](https://mstdn.party/@phdemotions)
+Mastodon:  [@phdemotions](https://mstdn.party/@phdemotions)
 
 ## References 
 
