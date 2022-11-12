@@ -15,7 +15,7 @@ Linkedin: @phdemotions
 
 [3] Gonzales, J., Mishra, S., & Camp, R. D. (2017). For the win: Risk‐sensitive decision‐making in teams. Journal of Behavioral Decision Making, 30(2), 462-472. https://doi.org/10.1002/bdm.1965  
 
-[4] Gonzales, J. D. (2019). Strategic Risk-Taking in the National Football League: A Multilevel Model Analysis of the Relative State Model (Masters thesis, The University of Regina (Canada)).
+[4] Gonzales, J. (2019). Strategic Risk-Taking in the National Football League: A Multilevel Model Analysis of the Relative State Model (Masters thesis, The University of Regina (Canada)).
 
 ### other
  Barclay, P., Mishra, S., & Sparks, A. M. (2018). State-dependent risk-taking. Proceedings of the Royal Society B, 285(1881), 20180180. https://doi.org/10.1098/rspb.2018.0180  
