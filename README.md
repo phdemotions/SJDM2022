@@ -2,9 +2,9 @@
 ### Contact Details:
 Email: jgonza10@uoguelph.ca
 
-Twitter: @phdemotions
+Twitter: [@phdemotions](https://twitter.com/phdemotions)
 
-Linkedin: @phdemotions
+Linkedin: [@phdemotions](https://www.linkedin.com/in/phdemotions)
 
 
 ## References 
