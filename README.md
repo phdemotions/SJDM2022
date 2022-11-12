@@ -2,9 +2,9 @@
 ### Contact Details:
 Email: jgonza10@uoguelph.ca
 
-Twitter: @phdnostalgia 
+Twitter: @phdemotions
 
-Linkedin: @phdnostalgia 
+Linkedin: @phdemotions
 ## References 
 Barclay, P., Mishra, S., & Sparks, A. M. (2018). State-dependent risk-taking. Proceedings of the Royal Society B, 285(1881), 20180180. https://doi.org/10.1098/rspb.2018.0180  
 
