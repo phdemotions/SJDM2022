@@ -6,6 +6,8 @@ Twitter: [@phdemotions](https://twitter.com/phdemotions)
 
 Linkedin: [@phdemotions](https://www.linkedin.com/in/phdemotions)
 
+Google Scholar: https://scholar.google.com/citations?user=1pPwExUAAAAJ
+
 Mastodon:  [@phdemotions](https://mstdn.party/@phdemotions)
 
 ## References 
